@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Multiple Projects**
 
-- 🌱 I’m currently learning **REACT, Android, MERN**
+- 🌱 I’m currently learning **Java, REACT, Android, MERN, AWS**
 
-- 👯 I’m looking to collaborate on **Front End**
+- 👯 I’m looking to collaborate on **Front End & Java Based Applications**
 
 - 🤝 I’m looking for help with **Java**
 
