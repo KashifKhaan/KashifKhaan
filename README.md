@@ -1,6 +1,6 @@
 [![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kashif</h1>
-<h3 align="center">A passionate Frontend & Java Developer from Pakistan</h3>
+<h3 align="center">Quality Assurance & Virtualization Solution Engineer from Pakistan</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifkhaan&label=Profile%20views&color=0e75b6&style=flat" alt="kashifkhaan" /> </p>
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Multiple Projects**
 
-- 🌱 I’m currently learning **Java, REACT, Android, MERN, AWS**
+- 🌱 Working in **Microsoft Azure, Amazon Web Services, Virtualization, Java, REACT, Android, MERN**
 
-- 👯 I’m looking to collaborate on **Front End & Java Based Applications**
+- 👯 I’m looking to collaborate on **Cloud Based Project, Front End & Java Based Applications**
 
-- 🤝 I’m looking for help with **Java**
+- 🤝 I’m Specialized In **Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KashifKhaan/KashifKhaan](https://github.com/KashifKhaan/KashifKhaan)
 
