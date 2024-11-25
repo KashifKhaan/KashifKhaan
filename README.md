@@ -1,6 +1,13 @@
 [![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kashif</h1>
-<h3 align="center">Quality Assurance Engineer from Pakistan!!</h3>
+<!-- <h3 align="center">Quality Assurance Engineer from Pakistan!!</h3> -->
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Quality+Assurance+Engineer!!;" alt="Typing SVG" /></a>
+</p>
+
+
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifkhaan&label=Profile%20views&color=0e75b6&style=flat" alt="kashifkhaan" /> </p>
