@@ -3,9 +3,14 @@
 <!-- <h3 align="center">Quality Assurance Engineer from Pakistan!!</h3> -->
 
 
-<p align="center">
+<!--<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Quality+Assurance+Engineer!!;" alt="Typing SVG" /></a>
-</p>
+ </p> -->
+
+
+ <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Kashif...;Hope+you+are+having+a+great+day!;Quality+Assurence+Engineer+from+Pakistan..;" alt="Kashif"></a>
+</div>
 
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
