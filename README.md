@@ -9,7 +9,7 @@
 
 
  <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Kashif...;Hope+you+are+having+a+great+day!;Quality+Assurence+Engineer+from+Pakistan..;" alt="Kashif"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Kashif...;Hope+you+are+having+a+great+day!;Quality+Assurance+Engineer+from+Pakistan..;" alt="Kashif"></a>
 </div>
 
 
