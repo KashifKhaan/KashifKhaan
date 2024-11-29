@@ -13,7 +13,9 @@
 </div>
 
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<div align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifkhaan&label=Profile%20views&color=0e75b6&style=flat" alt="kashifkhaan" /> </p>
 
