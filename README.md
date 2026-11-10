@@ -124,7 +124,7 @@ stack:     [Java, React, MERN, Android, AWS]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=github" />
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
   </picture>
 </div>
 
@@ -132,11 +132,12 @@ stack:     [Java, React, MERN, Android, AWS]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=github" />
-    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" />
-  </picture><picture>
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=github&utcOffset=5" />
-    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
   </picture>
 </div>
 
@@ -144,11 +145,12 @@ stack:     [Java, React, MERN, Android, AWS]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=github" />
-    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" />
-  </picture><picture>
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=github" />
-    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
   </picture>
 </div>
 
@@ -156,7 +158,7 @@ stack:     [Java, React, MERN, Android, AWS]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=graywhite&ring=0A7EA4&fire=0A7EA4&currStreakLabel=0A7EA4" />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
+    <img width="495" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
   </picture>
 </div>
 
