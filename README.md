@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kashif%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=QA%20%26amp%3B%20Virtualization%20Solution%20Engineer%20%40%20XtremeLabs&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Kashif Khan" />
+  <img src="./assets/header.svg" width="100%" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
 </div>
 
 <div align="center">
@@ -167,4 +167,4 @@ stack:     [Java, React, MERN, Android, AWS]
   <i>From <a href="https://github.com/KashifKhaan">KashifKhaan</a> — thanks for stopping by!</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:2A7B9B,100:06CAFF&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&fontAlignY=72" width="100%" alt="Thanks for visiting" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />

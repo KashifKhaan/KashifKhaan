@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="55%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#2A7B9B" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#fbg)"/>
+
+  <path d="M0 0 C 150 40, 310 -14, 480 22 C 660 60, 800 10, 980 34 C 1090 48, 1150 28, 1200 34 L1200 0 Z" fill="url(#fwave)"/>
+
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#FFFFFF" letter-spacing="0.8">Thanks for visiting!</text>
+
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#7FB4CC" letter-spacing="1.6">LET'S BUILD SOMETHING TOGETHER</text>
+</svg>
