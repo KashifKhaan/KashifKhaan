@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kashif%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=QA%20%26%20Virtualization%20Solution%20Engineer%20%40%20XtremeLabs&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Kashif Khan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kashif%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=QA%20%26amp%3B%20Virtualization%20Solution%20Engineer%20%40%20XtremeLabs&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Kashif Khan" />
 </div>
 
 <div align="center">
