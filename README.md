@@ -1,10 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=3" />
-    <img width="100%" src="./assets/header.svg?v=2" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
-  </picture>
+  <img width="100%" src="./assets/header.svg?v=2" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
 </div>
 
 <div align="center">
@@ -194,8 +190,4 @@ stack:     [Java, React, MERN, Android, AWS]
   <i>From <a href="https://github.com/KashifKhaan">KashifKhaan</a> — thanks for stopping by!</i>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg?v=3" />
-  <img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
-</picture>
+<img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
