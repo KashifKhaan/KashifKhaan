@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
 </div>
 
 <div align="center">
@@ -139,10 +139,7 @@ stack:     [Java, React, MERN, Android, AWS]
   <a href="https://www.linkedin.com/in/mr-kashif-442146214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mrkashi2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/kaxhifkhan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://stackoverflow.com/users/14922160/mr-kashif" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.youtube.com/@smartdecoder" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/kaxhif96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://web.facebook.com/profile.php?id=100022150300320" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://dribbble.com/kashif420" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
 </div>
 
