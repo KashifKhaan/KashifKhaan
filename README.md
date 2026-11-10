@@ -1,11 +1,19 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=1" />
+    <img width="100%" src="./assets/header.svg?v=2" alt="Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs" />
+  </picture>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06CAFF&center=true&vCenter=true&width=600&lines=QA+%26+Virtualization+Solution+Engineer;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06CAFF&center=true&vCenter=true&width=600&lines=QA+%26+Virtualization+Solution+Engineer;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=0A7EA4&center=true&vCenter=true&width=600&lines=QA+%26+Virtualization+Solution+Engineer;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06CAFF&center=true&vCenter=true&width=600&lines=QA+%26+Virtualization+Solution+Engineer;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" alt="Typing SVG" />
+    </picture>
   </a>
 </div>
 
@@ -117,19 +125,43 @@ stack:     [Java, React, MERN, Android, AWS]
 ## GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=github" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" /><img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=github" />
+    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" />
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=github&utcOffset=5" />
+    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" /><img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=github" />
+    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" />
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=github" />
+    <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=graywhite&ring=0A7EA4&fire=0A7EA4&currStreakLabel=0A7EA4" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
+  </picture>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
@@ -162,4 +194,8 @@ stack:     [Java, React, MERN, Android, AWS]
   <i>From <a href="https://github.com/KashifKhaan">KashifKhaan</a> — thanks for stopping by!</i>
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+  <img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
+</picture>

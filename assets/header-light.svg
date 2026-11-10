@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Kashif Khan — QA and Virtualization Solution Engineer at XtremeLabs">
+  <title>Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7FAFC"/>
+      <stop offset="52%" stop-color="#E8F1F5"/>
+      <stop offset="100%" stop-color="#D5E6EF"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0A7EA4" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#0A7EA4" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#0A7EA4" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="waveBack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2A7B9B" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#0A7EA4" stop-opacity="0.10"/>
+    </linearGradient>
+
+    <linearGradient id="waveMid" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#0A7EA4" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#2A7B9B" stop-opacity="0.07"/>
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A7EA4" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0A7EA4" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A7EA4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0A7EA4" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0A7EA4" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0; 1 0" keyTimes="0; 0.5; 1" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <ellipse cx="600" cy="110" rx="330" ry="130" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.55; 1; 0.55" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g fill="#0A7EA4">
+    <circle cx="140" cy="54" r="1.8">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1065" cy="80" r="2.2">
+      <animate attributeName="opacity" values="0.50;0.14;0.50" dur="4.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="150" r="2">
+      <animate attributeName="opacity" values="0.14;0.50;0.14" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="40" r="1.5">
+      <animate attributeName="opacity" values="0.45;0.12;0.45" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="150" r="1.6">
+      <animate attributeName="opacity" values="0.16;0.55;0.16" dur="4.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#5A8CA3">
+    <circle cx="995" cy="40" r="1.4">
+      <animate attributeName="opacity" values="0.35;0.10;0.35" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="215" cy="104" r="1.4">
+      <animate attributeName="opacity" values="0.12;0.40;0.12" dur="6.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1140" cy="140" r="1.6">
+      <animate attributeName="opacity" values="0.30;0.09;0.30" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -58 0; 0 0" dur="17s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 194 C 10 162, 150 230, 320 204 C 490 178, 630 224, 790 198 C 950 172, 1090 212, 1350 188 L1350 290 L-150 290 Z" fill="url(#waveBack)"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 46 0; 0 0" dur="12s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 216 C 20 192, 170 246, 350 224 C 540 200, 670 238, 850 220 C 1020 203, 1150 222, 1350 214 L1350 290 L-150 290 Z" fill="url(#waveMid)"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -30 0; 0 0" dur="9s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 236 C 40 218, 200 258, 400 240 C 600 222, 760 252, 940 238 C 1080 227, 1200 240, 1350 234 L1350 290 L-150 290 Z" fill="url(#waveFront)"/>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.85s" begin="0.1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 16; 0 0"
+      dur="0.95s" begin="0.1s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="112" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#102A33" letter-spacing="1.5">Kashif Khan</text>
+  </g>
+
+  <rect x="462" y="134" width="276" height="2" fill="url(#rule)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.55s" fill="freeze"/>
+  </rect>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 10; 0 0"
+      dur="0.9s" begin="0.5s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#0A7EA4" letter-spacing="0.6">QA &amp; Virtualization Solution Engineer</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 8; 0 0"
+      dur="0.9s" begin="0.8s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#4A7C92" letter-spacing="1.9">XTREMELABS &#183; MCLEAN, VA 22102, USA</text>
+  </g>
+</svg>
