@@ -117,21 +117,19 @@ stack:     [Java, React, MERN, Android, AWS]
 ## GitHub Statistics
 
 <div align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
 </div>
 
 <div align="center">
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" />
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
+  <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" /><img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
 </div>
 
 <div align="center">
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" />
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
+  <img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" /><img width="49.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
 </div>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
 </div>
 
 <!-- ===================== CONNECT ===================== -->
