@@ -1,70 +1,170 @@
-[![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kashif</h1>
-<!-- <h3 align="center">Quality Assurance Engineer from Pakistan!!</h3> -->
-
-
-<!--<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Quality+Assurance+Engineer!!;" alt="Typing SVG" /></a>
- </p> -->
-
-
- <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Kashif...;Hope+you+are+having+a+great+day!;Quality+Assurance+Engineer+from+Pakistan..;" alt="Kashif"></a>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kashif%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Microsoft%20Azure%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Kashif Khan" />
 </div>
-
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06CAFF&center=true&vCenter=true&width=600&lines=Quality+Assurance+Engineer+from+Pakistan;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" alt="Typing SVG" />
+  </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifkhaan&label=Profile%20views&color=0e75b6&style=flat" alt="kashifkhaan" /> </p>
+<div align="center">
+  <a href="https://github.com/KashifKhaan">
+    <img src="https://komarev.com/ghpvc/?username=KashifKhaan&label=Profile%20Views&color=06CAFF&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/KashifKhaan?tab=followers">
+    <img src="https://img.shields.io/github/followers/KashifKhaan?label=Followers&style=for-the-badge&color=06CAFF&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/mr-kashif-442146214/">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-1F8ACB?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifkhaan" alt="kashifkhaan" /></a> </p>
+<br />
 
-<p align="left"> <a href="https://twitter.com/kaxhifkhan" target="blank"><img src="https://img.shields.io/twitter/follow/kaxhifkhan?logo=twitter&style=for-the-badge" alt="kaxhifkhan" /></a> </p>
+<!-- ===================== ABOUT ===================== -->
+## About Me
 
-- 🔭 I’m currently working on **Multiple Projects**
+<img align="right" width="330" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="Coding" />
 
-- 🌱 Working in **Microsoft Azure, Amazon Web Services, Virtualization, Java, REACT, Android, MERN**
+```yaml
+name:      Kashif Khan
+role:      Quality Assurance Engineer
+company:   NeoDocto
+location:  Pakistan
+focus:     Microsoft Azure, Cloud & Virtualization
+stack:     [Java, React, MERN, Android, AWS]
+```
 
-- 👯 I’m looking to collaborate in **Cloud Based Project, Front End & Java Based Applications**
+- 🔭 &nbsp;Currently working on **multiple cloud & web projects**
+- 🌱 &nbsp;Deepening my skills in **Azure, AWS, Virtualization, Java, React & MERN**
+- 👯 &nbsp;Open to collaborating on **cloud-based, front-end and Java applications**
+- 🤝 &nbsp;Specialized in **Microsoft Azure**
+- 💬 &nbsp;Ask me about **Java, Android, JavaScript, SQL, AWS and Web Development**
+- 📫 &nbsp;Reach me at **[mrkashi2020@gmail.com](mailto:mrkashi2020@gmail.com)**
+- ⚡ &nbsp;Fun fact — **I am an enthusiastic, never-stop learner**
 
-- 🤝 I’m Specialized In **Microsoft Azure**
+<br clear="right" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/KashifKhaan/KashifKhaan](https://github.com/KashifKhaan/KashifKhaan)
+<!-- ===================== TECH STACK ===================== -->
+## Tech Stack
 
-- 💬 Ask me about **Java, Android, HTML, CSS, JavaScript, SQL, AWS, Web Dev**
+<table>
+  <tr>
+    <td valign="top" width="170"><b>☁️ Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>⚙️ Backend &amp; Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>📱 Mobile &amp; IoT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🧰 Tools &amp; Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **mrkashi2020@gmail.com**
+<!-- ===================== STATS ===================== -->
+## GitHub Statistics
 
-- ⚡ Fun fact **I'm An Enthusiastic Learner**
+<div align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashifKhaan&theme=tokyonight" alt="Profile details" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaxhifkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaxhifkhan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mr-kashif-442146214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mr-kashif-442146214/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14922160/mr-kashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14922160/mr-kashif" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mrkashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mrkashif" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100022150300320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100022150300320" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kaxhif96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kaxhif96/" height="30" width="40" /></a>
-<a href="https://dribbble.com/kashif420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kashif420" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@smartdecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@smartdecoder" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mrkashi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mrkashi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrkashi2020?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mrkashi2020?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mrkashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mrkashi" height="30" width="40" /></a>
-<a href="https://leetcode.com/mrkashi2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrkashi2020/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mrkashi2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mrkashi2020" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mrkashi2020/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mrkashi2020/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KashifKhaan&theme=tokyonight" alt="Stats" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KashifKhaan&theme=tokyonight&utcOffset=5" alt="Productive time" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<div align="center">
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by repo" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KashifKhaan&theme=tokyonight" alt="Top languages by commit" />
+</div>
 
+<div align="center">
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=KashifKhaan&hide_border=true&theme=tokyonight&ring=06CAFF&fire=06CAFF&currStreakLabel=06CAFF" alt="GitHub streak" />
+</div>
 
-<a href="https://github.com/KashifKhaan"><img alt="Kashif's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KashifKhaan&bg_color=RRGGBBAA&title_color=79bd4f&color=79bd4f&line=79bd4f&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+<!-- ===================== CONNECT ===================== -->
+## Connect With Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifkhaan&show_icons=true&locale=en&layout=compact" alt="kashifkhaan" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mr-kashif-442146214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mrkashi2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/kaxhifkhan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://stackoverflow.com/users/14922160/mr-kashif" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.youtube.com/@smartdecoder" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/kaxhif96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://web.facebook.com/profile.php?id=100022150300320" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://dribbble.com/kashif420" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashifkhaan&show_icons=true&locale=en" alt="kashifkhaan" /></p>
+### Competitive Programming
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashifkhaan&" alt="kashifkhaan" /></p>
+<div align="center">
+  <a href="https://leetcode.com/mrkashi2020/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/mrkashi2020" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/profile/mrkashi" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/mrkashi" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerearth.com/@mrkashi2020" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth" /></a>
+  <a href="https://www.geeksforgeeks.org/user/mrkashi2020/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.kaggle.com/mrkashif" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</div>
+
+<br />
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+  <i>From <a href="https://github.com/KashifKhaan">KashifKhaan</a> — thanks for stopping by!</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer" />
