@@ -1,21 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Thanks for visiting">
+  <title>Thanks for visiting!</title>
+
   <defs>
     <linearGradient id="fbg" x1="0" y1="1" x2="1" y2="0">
       <stop offset="0%" stop-color="#0F2027"/>
       <stop offset="55%" stop-color="#203A43"/>
       <stop offset="100%" stop-color="#2C5364"/>
     </linearGradient>
-    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.22"/>
+
+    <linearGradient id="fwaveBack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.24"/>
       <stop offset="100%" stop-color="#2A7B9B" stop-opacity="0.08"/>
     </linearGradient>
+
+    <linearGradient id="fwaveFront" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#2A7B9B" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <radialGradient id="fglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#06CAFF" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <rect width="1200" height="150" fill="url(#fbg)"/>
 
-  <path d="M0 0 C 150 40, 310 -14, 480 22 C 660 60, 800 10, 980 34 C 1090 48, 1150 28, 1200 34 L1200 0 Z" fill="url(#fwave)"/>
+  <ellipse cx="600" cy="96" rx="280" ry="70" fill="url(#fglow)">
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="6.5s" repeatCount="indefinite"/>
+  </ellipse>
 
-  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#FFFFFF" letter-spacing="0.8">Thanks for visiting!</text>
+  <!-- drifting waves along the top edge -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 52 0; 0 0" dur="15s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 -40 L1350 -40 L1350 30 C 1150 46, 1030 22, 870 34 C 690 48, 560 10, 380 26 C 210 41, 60 14, -150 32 Z" fill="url(#fwaveBack)"/>
+  </g>
 
-  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#7FB4CC" letter-spacing="1.6">LET'S BUILD SOMETHING TOGETHER</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -38 0; 0 0" dur="10.5s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 -40 L1350 -40 L1350 14 C 1180 30, 1020 4, 860 18 C 660 36, 530 -2, 350 12 C 190 25, 70 2, -150 18 Z" fill="url(#fwaveFront)"/>
+  </g>
+
+  <!-- twinkling particles -->
+  <g fill="#06CAFF">
+    <circle cx="200" cy="108" r="1.6">
+      <animate attributeName="opacity" values="0.12;0.55;0.12" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="70" r="1.8">
+      <animate attributeName="opacity" values="0.45;0.10;0.45" dur="5.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="62" r="1.3">
+      <animate attributeName="opacity" values="0.30;0.06;0.30" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1105" cy="118" r="1.5">
+      <animate attributeName="opacity" values="0.08;0.40;0.08" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 10; 0 0"
+      dur="0.9s" begin="0.15s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#FFFFFF" letter-spacing="0.8">Thanks for visiting!</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.45s" fill="freeze"/>
+    <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#7FB4CC" letter-spacing="1.6">LET&#39;S BUILD SOMETHING TOGETHER</text>
+  </g>
 </svg>

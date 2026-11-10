@@ -1,44 +1,131 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Kashif Khan — QA and Virtualization Solution Engineer at XtremeLabs">
+  <title>Kashif Khan — QA &amp; Virtualization Solution Engineer at XtremeLabs</title>
+
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0F2027"/>
       <stop offset="52%" stop-color="#203A43"/>
       <stop offset="100%" stop-color="#2C5364"/>
     </linearGradient>
-    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.16"/>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#06CAFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#06CAFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="waveBack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2A7B9B" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#06CAFF" stop-opacity="0.10"/>
+    </linearGradient>
+
+    <linearGradient id="waveMid" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#2A7B9B" stop-opacity="0.06"/>
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06CAFF" stop-opacity="0.13"/>
       <stop offset="100%" stop-color="#06CAFF" stop-opacity="0.04"/>
     </linearGradient>
-    <linearGradient id="wave2" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0%" stop-color="#2A7B9B" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#06CAFF" stop-opacity="0.08"/>
-    </linearGradient>
+
     <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#06CAFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#06CAFF" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#06CAFF" stop-opacity="0.95"/>
       <stop offset="100%" stop-color="#06CAFF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0; 1 0" keyTimes="0; 0.5; 1" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="260" fill="url(#bg)"/>
 
-  <g opacity="0.9">
-    <circle cx="140" cy="54" r="1.8" fill="#06CAFF" opacity="0.45"/>
-    <circle cx="1065" cy="80" r="2.2" fill="#06CAFF" opacity="0.35"/>
-    <circle cx="995" cy="40" r="1.4" fill="#FFFFFF" opacity="0.30"/>
-    <circle cx="215" cy="104" r="1.4" fill="#FFFFFF" opacity="0.22"/>
-    <circle cx="80" cy="150" r="2" fill="#06CAFF" opacity="0.22"/>
-    <circle cx="1140" cy="140" r="1.6" fill="#FFFFFF" opacity="0.25"/>
+  <!-- breathing glow behind the name -->
+  <ellipse cx="600" cy="110" rx="330" ry="130" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.55; 1; 0.55" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- twinkling particles -->
+  <g fill="#06CAFF">
+    <circle cx="140" cy="54" r="1.8">
+      <animate attributeName="opacity" values="0.15;0.70;0.15" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1065" cy="80" r="2.2">
+      <animate attributeName="opacity" values="0.45;0.10;0.45" dur="4.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="150" r="2">
+      <animate attributeName="opacity" values="0.10;0.50;0.10" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="40" r="1.5">
+      <animate attributeName="opacity" values="0.40;0.08;0.40" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="150" r="1.6">
+      <animate attributeName="opacity" values="0.12;0.55;0.12" dur="4.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="995" cy="40" r="1.4">
+      <animate attributeName="opacity" values="0.30;0.06;0.30" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="215" cy="104" r="1.4">
+      <animate attributeName="opacity" values="0.08;0.34;0.08" dur="6.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1140" cy="140" r="1.6">
+      <animate attributeName="opacity" values="0.26;0.05;0.26" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <path d="M0 196 C 160 164, 300 232, 470 206 C 640 180, 780 226, 940 200 C 1060 180, 1140 198, 1200 190 L1200 260 L0 260 Z" fill="url(#wave2)"/>
-  <path d="M0 220 C 170 196, 320 248, 500 226 C 690 202, 820 240, 1000 222 C 1100 212, 1160 222, 1200 216 L1200 260 L0 260 Z" fill="url(#wave1)"/>
+  <!-- drifting wave layers (parallax: each moves a different way) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -58 0; 0 0" dur="17s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 194 C 10 162, 150 230, 320 204 C 490 178, 630 224, 790 198 C 950 172, 1090 212, 1350 188 L1350 290 L-150 290 Z" fill="url(#waveBack)"/>
+  </g>
 
-  <text x="600" y="112" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#FFFFFF" letter-spacing="1.5">Kashif Khan</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 46 0; 0 0" dur="12s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 216 C 20 192, 170 246, 350 224 C 540 200, 670 238, 850 220 C 1020 203, 1150 222, 1350 214 L1350 290 L-150 290 Z" fill="url(#waveMid)"/>
+  </g>
 
-  <rect x="462" y="134" width="276" height="2" fill="url(#rule)"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -30 0; 0 0" dur="9s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <path d="M-150 236 C 40 218, 200 258, 400 240 C 600 222, 760 252, 940 238 C 1080 227, 1200 240, 1350 234 L1350 290 L-150 290 Z" fill="url(#waveFront)"/>
+  </g>
 
-  <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#9FD8EF" letter-spacing="0.6">QA &amp; Virtualization Solution Engineer</text>
+  <!-- name: fades and rises in on load -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.85s" begin="0.1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 16; 0 0"
+      dur="0.95s" begin="0.1s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="112" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#FFFFFF" letter-spacing="1.5">Kashif Khan</text>
+  </g>
 
-  <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#7FB4CC" letter-spacing="2.4">XTREMELABS &#183; PAKISTAN</text>
+  <!-- shimmering divider rule -->
+  <rect x="462" y="134" width="276" height="2" fill="url(#rule)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.55s" fill="freeze"/>
+  </rect>
+
+  <!-- role -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 10; 0 0"
+      dur="0.9s" begin="0.5s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#9FD8EF" letter-spacing="0.6">QA &amp; Virtualization Solution Engineer</text>
+  </g>
+
+  <!-- company / location -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 8; 0 0"
+      dur="0.9s" begin="0.8s" fill="freeze"
+      calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
+    <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#7FB4CC" letter-spacing="2.4">XTREMELABS &#183; PAKISTAN</text>
+  </g>
 </svg>
