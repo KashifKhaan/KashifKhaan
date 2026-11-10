@@ -69,6 +69,6 @@
 
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.45s" fill="freeze"/>
-    <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#4A7C92" letter-spacing="1.6">LET&#39;S BUILD SOMETHING TOGETHER</text>
+    <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#36677C" letter-spacing="1.6">LET&#39;S BUILD SOMETHING TOGETHER</text>
   </g>
 </svg>
