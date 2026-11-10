@@ -32,7 +32,7 @@
 name:      Kashif Khan
 role:      QA & Virtualization Solution Engineer
 company:   XtremeLabs
-location:  Pakistan
+location:  McLean, VA 22102, USA
 focus:     Microsoft Azure, Cloud & Virtualization
 stack:     [Java, React, MERN, Android, AWS]
 ```

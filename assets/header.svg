@@ -126,6 +126,6 @@
     <animateTransform attributeName="transform" type="translate" values="0 8; 0 0"
       dur="0.9s" begin="0.8s" fill="freeze"
       calcMode="spline" keyTimes="0; 1" keySplines="0.2 0.7 0.3 1"/>
-    <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#7FB4CC" letter-spacing="2.4">XTREMELABS &#183; PAKISTAN</text>
+    <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#7FB4CC" letter-spacing="1.9">XTREMELABS &#183; MCLEAN, VA 22102, USA</text>
   </g>
 </svg>
