@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kashif%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Microsoft%20Azure%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Kashif Khan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kashif%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=QA%20%26%20Virtualization%20Solution%20Engineer%20%40%20XtremeLabs&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Kashif Khan" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06CAFF&center=true&vCenter=true&width=600&lines=Quality+Assurance+Engineer+from+Pakistan;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06CAFF&center=true&vCenter=true&width=600&lines=QA+%26+Virtualization+Solution+Engineer;Microsoft+Azure+%7C+AWS+%7C+Cloud+Solutions;Java+%7C+React+%7C+MERN+%7C+Android;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,8 +30,8 @@
 
 ```yaml
 name:      Kashif Khan
-role:      Quality Assurance Engineer
-company:   NeoDocto
+role:      QA & Virtualization Solution Engineer
+company:   XtremeLabs
 location:  Pakistan
 focus:     Microsoft Azure, Cloud & Virtualization
 stack:     [Java, React, MERN, Android, AWS]
@@ -167,4 +167,4 @@ stack:     [Java, React, MERN, Android, AWS]
   <i>From <a href="https://github.com/KashifKhaan">KashifKhaan</a> — thanks for stopping by!</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:2A7B9B,100:06CAFF&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&fontAlignY=72" width="100%" alt="Thanks for visiting" />
